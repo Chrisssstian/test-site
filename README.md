@@ -1,6 +1,6 @@
 # This is h1 header
 
-![](https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2017/08/RTS18BXU.jpg)
+
 
 ## This is h2 header
 
